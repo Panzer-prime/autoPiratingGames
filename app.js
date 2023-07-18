@@ -3,7 +3,7 @@ const puppeteer = require("puppeteer");
 async function searchOnGoogle(searchTerm) {
   const browser = await puppeteer.launch({
     executablePath:
-      "C:/Program Files/Google/Chrome/Application/chrome",
+      "<Chroome-Path>",
     headless: false,
   });
   const page = await browser.newPage();
