@@ -1,16 +1,16 @@
 # autoPiratingGames
 
-#V : 1.0.0
+# V : 1.0.0
 
-#About
+# About
 
-i have made a simple bot that can auto pirate games form steaunlocked . the app is simple you doanload the code and then run 
+i have made a simple bot that can auto-pirate games from Steaunlocked. the app is simple you download the code and then run 
 
 ```
 node app.js
 ```
-Enter the game name in the console and wait that the app would go in google search the game + steamunlocked and then press the buttons needed and wait
+Enter the game name in the console and wait that the app would go into Google search the game + steam unlocked and then press the buttons needed and wait
 
-# why i did it 
+# why I did it 
 
 got bored and said why not 
